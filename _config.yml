@@ -1,5 +1,5 @@
 destination: ./build
-baseurl: 'docs-with-hackmd'
-title: "My doc site"
+baseurl: 'CTFs writeup'
+title: "Creammjnk CTF Writeups"
 theme: just-the-docs
 search_enabled: false
